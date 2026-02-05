@@ -3,7 +3,7 @@
 I'm a Business Analytics undergraduate at NUS with strong interests in  
 **Machine Learning, Computer Vision, Data Engineering, and Applied AI**.
 
-I enjoy building end-to-end systems — from messy real-world data, to models for usable products.
+I enjoy building end-to-end systems --> from messy real-world data, to models for usable products.
 
 ---
 
@@ -18,10 +18,14 @@ I enjoy building end-to-end systems — from messy real-world data, to models fo
 ## 🚀 Work Experience 
 
 ### 🧠 Age & Gender Prediction (Computer Vision)
-- CNN-based age & gender prediction using TensorFlow/Keras  
-- Achieved **7.2 MAE (age)** and **90% accuracy (gender)**  
-- Deployed with Streamlit for real-time inference  
+- CNN-based age & gender prediction using TensorFlow/Keras
+
+- Achieved **7.2 MAE (age)** and **90% accuracy (gender)**
+ 
+- Deployed with Streamlit for real-time inference
+
 🔗 https://github.com/killuasmurf/age_gender_predictor
+
 🔗 https://killuasmurf-age-gender-predictor.streamlit.app/
 
 ### 🧪 QSAR Toxicity Modeling (Cheminformatics Intern – HTX)
@@ -48,7 +52,7 @@ I enjoy building end-to-end systems — from messy real-world data, to models fo
 
 - Implemented a caregiver-dependent invitation system with email validation and role-based access
 
-- Designed real-time medication tracking to support patients and caregivers
+🔗 https://github.com/killuasmurf/MediNow-
 
 ## 🛠 Tech Stack
 **Languages:** Python, Java, SQL, JavaScript, R, HTML, CSS
