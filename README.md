@@ -36,11 +36,11 @@ I enjoy building end-to-end systems --> from messy real-world data, to models fo
 
 - Focused on improving generalization and reducing RMSE on toxicity prediction tasks
 
-### 🏥 Smart Fan Speed Optimization (Full Stack & Data Science Intern – Azendian Solutions, NUH)
+### 🏥 Smart Fan Speed Optimization (Full Stack & Data Science Intern – Azendian Solutions)
 
 - Designed an end-to-end machine learning pipeline using multi-source time-series sensor data
 
-- Trained predictive models to optimize ceiling fan speed and improve thermal comfort
+- Trained predictive models to optimize ceiling fan speed and improve thermal comfort in NUH
 
 - Built interactive dashboards for analysis and stakeholder interpretation
 
@@ -53,6 +53,8 @@ I enjoy building end-to-end systems --> from messy real-world data, to models fo
 - Implemented a caregiver-dependent invitation system with email validation and role-based access
 
 🔗 https://github.com/killuasmurf/MediNow-
+
+🔗 https://bt3103-medinow.web.app/
 
 ## 🛠 Tech Stack
 **Languages:** Python, Java, SQL, JavaScript, R, HTML, CSS
