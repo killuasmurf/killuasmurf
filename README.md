@@ -15,33 +15,39 @@ I enjoy building end-to-end systems — from messy real-world data, to models fo
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Work Experience 
 
-### 🧠 Age & Gender Prediction (Computer Vision)
-- CNN-based age & gender prediction using TensorFlow/Keras  
-- Achieved **7.2 MAE (age)** and **90% accuracy (gender)**  
-- Deployed with Streamlit for real-time inference  
-🔗 https://github.com/killuasmurf/age_gender_predictor
+### 🧪 QSAR Toxicity Modeling (Cheminformatics Intern – HTX)
 
-## 🚀 Internship Experiences
+- Built ensemble QSAR models using XGBoost, CatBoost, and Random Forest
 
-### 🧪 QSAR Toxicity Modeling (Cheminformatics)
-- Built ensemble QSAR models with XGBoost, CatBoost, RF  
-- Used scaffold-aware validation & imbalance-aware sampling  
-- Focused on robust generalization and RMSE reduction
+- Applied scaffold-aware validation strategies and imbalance-aware sampling
 
----
+- Focused on improving generalization and reducing RMSE on toxicity prediction tasks
 
-### 🏥 Smart Fan Speed Optimization (NUH)
-- End-to-end ML pipeline using sensor time-series data  
-- Improved waiting area thermal comfort via predictive modeling  
-- Built interactive dashboards for analysis
+### 🏥 Smart Fan Speed Optimization (Full Stack & Data Science Intern – Azendian Solutions, NUH)
+
+- Designed an end-to-end machine learning pipeline using multi-source time-series sensor data
+
+- Trained predictive models to optimize ceiling fan speed and improve thermal comfort
+
+- Built interactive dashboards for analysis and stakeholder interpretation
+
+### 💊 MediNow – Medication Management Platform (Software Engineer – NUS)
+
+- Developed MediNow, a Vue.js-based medication management web application
+
+- Integrated Google Firebase for authentication, database, and real-time updates
+
+- Implemented a caregiver-dependent invitation system with email validation and role-based access
+
+- Designed real-time medication tracking to support patients and caregivers
 
 ## 🛠 Tech Stack
-**Languages:** Python, Java, SQL, JavaScript, R  
-**ML / Data:** Pandas, Scikit-learn, TensorFlow, PySpark, XGBoost  
-**Web / Backend:** React, Vue, FastAPI, Express  
-**Cloud / Tools:** AWS, Docker, Databricks, Streamlit, Git  
+**Languages:** Python, Java, SQL, JavaScript, R, HTML, CSS
+**ML / Data:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PySpark, Matplotlib, Seaborn, Plotly, Tableau, Power BI
+**Web / Backend:** React, Vue, FastAPI, Express, Streamlit
+**Data Engineering & Cloud:** ETL pipelines, AWS (S3, Glue), Databricks, Docker, Apache Airflow
 
 ---
 
