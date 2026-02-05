@@ -17,6 +17,13 @@ I enjoy building end-to-end systems — from messy real-world data, to models fo
 
 ## 🚀 Work Experience 
 
+### 🧠 Age & Gender Prediction (Computer Vision)
+- CNN-based age & gender prediction using TensorFlow/Keras  
+- Achieved **7.2 MAE (age)** and **90% accuracy (gender)**  
+- Deployed with Streamlit for real-time inference  
+🔗 https://github.com/killuasmurf/age_gender_predictor
+🔗 https://killuasmurf-age-gender-predictor.streamlit.app/
+
 ### 🧪 QSAR Toxicity Modeling (Cheminformatics Intern – HTX)
 
 - Built ensemble QSAR models using XGBoost, CatBoost, and Random Forest
