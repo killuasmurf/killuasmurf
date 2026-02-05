@@ -58,8 +58,11 @@ I enjoy building end-to-end systems --> from messy real-world data, to models fo
 
 ## 🛠 Tech Stack
 **Languages:** Python, Java, SQL, JavaScript, R, HTML, CSS
+
 **ML / Data:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PySpark, Matplotlib, Seaborn, Plotly, Tableau, Power BI
+
 **Web / Backend:** React, Vue, FastAPI, Express, Streamlit
+
 **Data Engineering & Cloud:** ETL pipelines, AWS (S3, Glue), Databricks, Docker, Apache Airflow
 
 ---
