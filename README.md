@@ -13,49 +13,6 @@ I enjoy building end-to-end systems --> from messy real-world data, to models fo
 - Data Engineering (ETL pipelines, cloud workflows)
 - Applied Analytics (dashboards, business insights)
 
----
-
-## 🚀 Work Experience 
-
-### 🧠 Age & Gender Prediction (Computer Vision)
-- CNN-based age & gender prediction using TensorFlow/Keras
-
-- Achieved **7.2 MAE (age)** and **90% accuracy (gender)**
- 
-- Deployed with Streamlit for real-time inference
-
-🔗 https://github.com/killuasmurf/age_gender_predictor
-
-🔗 https://killuasmurf-age-gender-predictor.streamlit.app/
-
-### 🧪 QSAR Toxicity Modeling (Cheminformatics Intern – HTX)
-
-- Built ensemble QSAR models using XGBoost, CatBoost, and Random Forest
-
-- Applied scaffold-aware validation strategies and imbalance-aware sampling
-
-- Focused on improving generalization and reducing RMSE on toxicity prediction tasks
-
-### 🏥 Smart Fan Speed Optimization (Full Stack & Data Science Intern – Azendian Solutions)
-
-- Designed an end-to-end machine learning pipeline using multi-source time-series sensor data
-
-- Trained predictive models to optimize ceiling fan speed and improve thermal comfort in NUH
-
-- Built interactive dashboards for analysis and stakeholder interpretation
-
-### 💊 MediNow – Medication Management Platform (Software Engineer – NUS)
-
-- Developed MediNow, a Vue.js-based medication management web application
-
-- Integrated Google Firebase for authentication, database, and real-time updates
-
-- Implemented a caregiver-dependent invitation system with email validation and role-based access
-
-🔗 https://github.com/killuasmurf/MediNow-
-
-🔗 https://bt3103-medinow.web.app/
-
 ## 🛠 Tech Stack
 **Languages:** Python, Java, SQL, JavaScript, R, HTML, CSS
 
